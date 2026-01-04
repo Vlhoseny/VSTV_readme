@@ -20,47 +20,47 @@
 ---
 
 ### 🚀 Professional Summary
-I am a **Software Engineer** [cite: 3] [cite_start]and a student at **Hurghada University**[cite: 8]. [cite_start]I specialize in **Oracle Cloud Infrastructure (OCI)** [cite: 26, 27] and **Enterprise Integration**. [cite_start]My expertise spans across designing cloud architectures and securing them through threat detection and vulnerability research[cite: 12, 25].
+I am a Software Engineer and a student at Hurghada University. I specialize in **Oracle Cloud Infrastructure (OCI)** and **Enterprise Integration**. My expertise spans across designing cloud architectures and securing them through threat detection and vulnerability research.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Skills
 
 #### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,php,py,cs" />
 </p>
 
-* [cite_start]**C++** [cite: 34] | [cite_start]**JavaScript** [cite: 34] | [cite_start]**PHP** [cite: 34] | [cite_start]**Python** [cite: 34] | **C#**
+* **C++** | **JavaScript** | **PHP** | **Python** | **C#**
 
 #### ☁️ Cloud & DevOps
 | Platform / Tool | Category | Badge |
 | :--- | :--- | :--- |
-| **Oracle Cloud (OCI)** | Cloud Infrastructure | [cite_start]![OCI](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) [cite: 35] |
-| **Docker** | Containerization | [cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) [cite: 35] |
-| **Kubernetes** | Orchestration | [cite_start]![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) [cite: 35] |
-| **Jenkins** | CI/CD | [cite_start]![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) [cite: 35] |
-| **GitLab / GitHub** | DevOps | [cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) [cite: 35] |
+| **Oracle Cloud (OCI)** | Cloud Platform | ![OCI](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Docker** | Containerization | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Kubernetes** | Orchestration | ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Jenkins** | CI/CD | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| **GitHub / GitLab** | DevOps | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 #### 🔗 Middleware & Integration (Specialized)
-* **JDeveloper (JDev):** Core IDE for developing SOA composites and Java Cloud applications.
-* **Oracle Service Bus (OSB):** Expert in service orchestration, routing, and message transformation.
-* **Oracle SOA Suite:** Building and managing complex enterprise business processes.
+* **JDeveloper (JDev):** Development of SOA composites and Java Cloud applications.
+* **Oracle Service Bus (OSB):** Enterprise service orchestration and routing.
+* **Oracle SOA Suite:** Managing complex business processes and workflows.
 
 #### 🛡️ Cybersecurity & Systems
-* [cite_start]**Security Tools:** QRadar [cite: 35][cite_start], Nmap [cite: 35][cite_start], PortSwigger Labs[cite: 43].
-* [cite_start]**Operating Systems:** Oracle Linux [cite: 36][cite_start], RedHat Linux [cite: 36][cite_start], Linux Server [cite: 36][cite_start], Windows Server[cite: 36].
-__
+* **Tools:** QRadar, Nmap, PortSwigger Labs.
+* **OS:** Oracle Linux, RedHat Linux, Linux Server, Windows Server.
+
 ---
 
 ### 🏆 Key Achievements
-* [cite_start]🎓 **BS in Computer Science** - Hurghada University[cite: 8, 9].
-* [cite_start]🥇 **1st Place** Faculty - **88th in ECPC 2024**[cite: 41].
-* [cite_start]🥈 **2nd Place** Faculty - **77th in ECPC 2023**[cite: 40].
-* [cite_start]🏅 **Certified OCI Architect Associate 2025**[cite: 27].
-* [cite_start]🏅 **Certified OCI Foundations Associate 2025**[cite: 26].
-* [cite_start]🛡️ **Top 5%** on TryHackMe[cite: 39].
-* [cite_start]🚀 **GDG Lead** (SVU) [cite: 13, 14] [cite_start]& **Cybersecurity Head** (HUN)[cite: 18].
+* 🎓 **BS in Computer Science** - Hurghada University.
+* 🥇 **1st Place** Faculty - **88th in ECPC 2024**.
+* 🥈 **2nd Place** Faculty - **77th in ECPC 2023**.
+* 🏅 **Certified OCI Architect Associate 2025**.
+* 🏅 **Certified OCI Foundations Associate 2025**.
+* 🛡️ **Top 5%** on TryHackMe.
+* 🚀 **GDG Lead** (SVU) & **Cybersecurity Head** (HUN).
 
 ---
 
@@ -72,9 +72,9 @@ __
 
 ---
 
-### 🕹️ Activity Tracker
+### 🎮 Activity Tracker (Pacman/Snake)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Vlhoseny/Vlhoseny/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Vlhoseny/Vlhoseny/output/github-contribution-grid-snake.svg" alt="Pacman/Snake Animation" />
 </div>
 
 ---
