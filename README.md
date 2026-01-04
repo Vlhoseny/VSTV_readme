@@ -65,10 +65,9 @@ I am a Software Engineer and a student at Hurghada University. I specialize in *
 ---
 
 ### 📊 GitHub Insights
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vlhoseny&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlhoseny&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Vlhoseny/Vlhoseny/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
 ---
 
